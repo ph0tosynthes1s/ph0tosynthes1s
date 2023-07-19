@@ -1,6 +1,6 @@
-<p align='center'>Hi there 👋</p>
-<p align='center'>My name is ph0tosynthes1s 🍀</p> 
-<img align="center" alt="Coding" width="100%" src="https://steamuserimages-a.akamaihd.net/ugc/102852399392988091/75863C36036A5A491AA56079CC285F67F1847B8C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<h1 align='center'>Hi there 👋</h1>
+<h2 align='center' style="font-size: 5px">My name is ph0tosynthes1s and I'm ready to work!🍀</h2> 
+<img align="center" alt="Coding" width="100%" src="https://media3.giphy.com/media/LpdlqTkgO2Lwwixwv7/giphy.gif?cid=ecf05e47tyk6d56wyare42xg6qhp9r7qocfbs1whvx0ucjnq&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <!--
 **ph0tosynthes1s/ph0tosynthes1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
