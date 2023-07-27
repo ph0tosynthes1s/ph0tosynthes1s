@@ -1,7 +1,5 @@
 # [![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=2000&pause=800&color=009B77&repeat=false&width=800&height=80&lines=Hello+%2C+I'm+Konstantin+Pimenov🍀)](https://git.io/typing-svg)
 
-<img align="center" alt="Coding" width="100%" src="https://media3.giphy.com/media/LpdlqTkgO2Lwwixwv7/giphy.gif?cid=ecf05e47tyk6d56wyare42xg6qhp9r7qocfbs1whvx0ucjnq&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-
 ## About me
 
 - 🦾 I'm a Full-Stack Developer
