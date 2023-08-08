@@ -4,7 +4,6 @@
 
 - 🦾 I'm a Full-Stack Developer
 - 👥 I can work in a team
-- 🧠 I also don't like routine, so I automate it and concentrate on the essentials
 - 🚴‍♂️ Doing Sports
 
 ## Skills
