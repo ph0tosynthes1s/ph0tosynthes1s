@@ -2,8 +2,8 @@
 
 ## About me
 
-- 🦾 I'm a Full-Stack Developer
-- 👥 I can work in a team
+- 🦾 Full-Stack Developer
+- 👥 Work in a team
 - 🚴‍♂️ Doing Sports
 
 ## Skills
