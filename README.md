@@ -31,11 +31,3 @@
 ## Contacts
 
 - 📱 You can write to me here [![](https://img.shields.io/badge/ph0tosynthes1s-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ph0tosynthes1s) or here [![](https://img.shields.io/badge/ph0tosynthes1s-red?style=flat&logo=Gmail&logoColor=white)](mailto:kostalexo31@gmail.com)
-
-## Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ph0tosynthes1s&theme=nightowl)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ph0tosynthes1s&theme=nightowl)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ph0tosynthes1s&theme=nightowl)
-
-
