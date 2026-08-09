@@ -35,7 +35,7 @@ Role:
   TeamLead FullStack Dev 
 
 Learning:
-  - Go Internals
+  - Go
   - JAVA
   - C++
   - C#
