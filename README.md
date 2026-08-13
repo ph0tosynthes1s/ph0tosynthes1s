@@ -36,6 +36,7 @@ Role:
 
 Learning:
   - Go
+  - Rust
   - JAVA
   - C++
   - C#
