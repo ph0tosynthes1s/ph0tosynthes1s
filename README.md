@@ -45,7 +45,13 @@ Learning:
 
 ---
 
-# 📫 Contacts
+
+## 📈 LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/ph0tosynthes1s?theme=catppuccinMocha&font=Montserrat&ext=heatmap)
+
+---
+
+## 📫 Contacts
 
 <p>
 
