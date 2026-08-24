@@ -40,9 +40,7 @@ Role:
 Learning:
   - Go
   - Rust
-  - JAVA
   - C++
-  - C#
   - Software Architecture
 ```
 
